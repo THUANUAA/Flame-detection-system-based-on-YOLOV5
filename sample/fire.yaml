@@ -1,0 +1,8 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: E:/C&C++/project/sample/datapath/train.txt
+val: E:/C&C++/project/sample/datapath/val.txt
+# number of classes
+nc: 2
+
+# class names
+names: ["fire"]
